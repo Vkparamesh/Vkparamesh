@@ -1,7 +1,15 @@
 # Hi, I'm Paramesh!👋<V‿K>
 # 💫 About Me:
-🔭Final-Year Engineering Student Hustling To Acquire Knowledge, Experience And Skills For Personal Development As Well As To Fulfil My Future Goals.
-I Like Coding And Working On Other Tech Projects Too.
+Hi there! 👋
+
+I am a passionate Web and Mobile App Developer with 1 year of hands-on experience in building user-friendly and scalable applications. My expertise lies in creating seamless digital experiences using:
+
+🌐 React for crafting responsive and dynamic web applications.
+📱 Flutter for building cross-platform mobile apps with beautiful and intuitive designs.
+🐍 Python for backend logic, APIs, and scripting.
+I thrive on learning new technologies, solving challenging problems, and contributing to meaningful projects. Whether it’s a sleek mobile app or a robust web solution, I’m dedicated to writing clean, efficient, and maintainable code.
+
+Let’s collaborate and create something awesome together! 🚀
 
 At Present, I Am Learning MERN Full-Stack Web Development And Also Mastering My Data Structures And Algorithms. I'll Continue To Build More Skills And Develop Real-Life Experience For The Future.
 
